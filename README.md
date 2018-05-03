@@ -11,7 +11,7 @@ Geostress is a combination of a standard geoprocessing Python script and a csv w
 This version of Geostress is made for ArcGIS Pro only.
 Future versions will cover other Geoprocessing libraries.
 
-##Usage
+## Usage
 
 1. Download repository
 2. Set the directories in the Geostress.py file
